@@ -1,6 +1,6 @@
 baseURL: https://liubinfighter.github.io/
 languageCode: en-us
-title: "Ben's Blog"
+title: "Huajie's Blog"
 theme: PaperMod
  
 enableRobotsTXT: true
@@ -39,8 +39,8 @@ minify:
   minifyOutput: true
 
 params:
-  title: "Ben's Blog"
-  author: "Ben Chan" # author: ["Me", "You"] # multiple authors
+  title: "Huajie's Blog"
+  author: "Huajie Liu" # author: ["Me", "You"] # multiple authors
   DateFormat: "January 2, 2006"
   defaultTheme: auto
 
@@ -70,7 +70,7 @@ params:
 
   profileMode: 
     enabled: false # needs to be explicitly set
-    title: "Ben's blog"
+    title: "Huajie's blog"
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
@@ -84,18 +84,18 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Ben's Blog"
-    Content: "In small proportions we just beauties see. And in short measures life may perfect be."
+    Title: "Huajie's Blog"
+    Content: "Per Aspera, Ad Astra."
 
   socialIcons:
     - name: github
-      url: "https://github.com/chanbengz"
+      url: "https://github.com/LIUBINfighter"
     - name: linkedin
-      url: "https://www.linkedin.com/in/b3nch4n/"
+      url: "https://www.linkedin.com/in/%E5%8D%8E%E6%9D%B0-%E5%88%98-6a8b1131b/"
     - name: telegram
-      url: "https://t.me/z4grus"
+      url: ""
     - name: email
-      url: "mailto:chanben04gz@gmail.com"
+      url: "mailto:Liuhj10860@gmail.com"
     - name: rss
       url: "/index.xml"
 
@@ -105,7 +105,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/chanbengz/chanbengz.github.io/blob/main/content"
+    URL: "https://github.com/LIUBINfighter/LIUBINfighter.github.io/blob/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
