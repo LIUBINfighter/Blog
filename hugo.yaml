@@ -1,0 +1,161 @@
+baseURL: https://liubinfighter.github.io/
+languageCode: en-us
+title: "Ben's Blog"
+theme: PaperMod
+ 
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+hasCJKLanguage: true
+
+# defaultContentLanguage: en
+# defaultContentLanguageInSubdir: false
+# displayFullLangName: true
+#
+# languages:
+#   en:
+#     disabled: false
+#     languageCode: "en"
+#     languageDirection: "en"
+#     languageName: "English"
+#     title: "Home"
+#     weight: 20
+#   zh:
+#     disabled: false
+#     languageCode: "zh"
+#     languageDirection: "zh"
+#     languageName: "中文"
+#     title: "首页"
+#     weight: 10
+
+pagination:
+  disableAliases: false
+  pagerSize: 5
+  path: page
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  title: "Ben's Blog"
+  author: "Ben Chan" # author: ["Me", "You"] # multiple authors
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+
+  # functional options
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  # homepage title
+  label:
+    text: "Home"
+    # icon: /apple-touch-icon.png
+    # iconHeight: 35
+
+  profileMode: 
+    enabled: false # needs to be explicitly set
+    title: "Ben's blog"
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: imagetitle
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Ben's Blog"
+    Content: "In small proportions we just beauties see. And in short measures life may perfect be."
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/chanbengz"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/b3nch4n/"
+    - name: telegram
+      url: "https://t.me/z4grus"
+    - name: email
+      url: "mailto:chanben04gz@gmail.com"
+    - name: rss
+      url: "/index.xml"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/chanbengz/chanbengz.github.io/blob/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  # search
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+# menu on right top
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
+
+pygmentsUseClasses: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
