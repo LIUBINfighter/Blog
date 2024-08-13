@@ -6,10 +6,14 @@ tiltle: "Hello"
 
 ### Hello Hugo
 
-1. aaa
-
-2. bbb
+1. Debug
 
 ```
-hugo --theme=hugo-PaperMod --baseURL="http://liubinfighter.github.io/"
+.\hugo server --theme=PaperMod --buildDrafts
+```
+
+2. Biuld
+
+```
+.\hugo --theme=PaperMod --baseURL="http://liubinfighter.github.io/"
 ```
