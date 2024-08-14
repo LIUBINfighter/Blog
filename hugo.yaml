@@ -44,8 +44,8 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   # avatarURL: "./assets/images/IMG_0027.jpg"
-  assets: 
-    favicon: "static/favicon.ico"
+  # assets: 
+  #   favicon: "static/favicon.ico"
 
   # functional options
   disableThemeToggle: false
