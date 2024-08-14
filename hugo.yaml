@@ -43,12 +43,14 @@ params:
   author: "Huajie Liu" # author: ["Me", "You"] # multiple authors
   DateFormat: "January 2, 2006"
   defaultTheme: auto
-  avatarURL: "./assets/images/IMG_0027.jpg"
+  # avatarURL: "./assets/images/IMG_0027.jpg"
+  assets: 
+    favicon: "static/favicon.ico"
 
   # functional options
   disableThemeToggle: false
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
