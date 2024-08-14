@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://liubinfighter.github.io/about/</loc>
+    <lastmod>2024-08-13T23:23:49+08:00</lastmod>
+  </url><url>
     <loc>http://liubinfighter.github.io/</loc>
     <lastmod>2024-08-13T23:23:49+08:00</lastmod>
   </url><url>
@@ -11,7 +14,11 @@
     <loc>http://liubinfighter.github.io/post/</loc>
     <lastmod>2024-08-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://liubinfighter.github.io/archives/</loc>
+  </url><url>
     <loc>http://liubinfighter.github.io/categories/</loc>
+  </url><url>
+    <loc>http://liubinfighter.github.io/search/</loc>
   </url><url>
     <loc>http://liubinfighter.github.io/tags/</loc>
   </url>
