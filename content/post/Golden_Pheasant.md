@@ -1,6 +1,6 @@
 ---
 date: "2024-05-24"
-tiltle: "Golden Pheasant Award 第三届金野鸡奖供文"
+tiltle: "Golden Pheasant Award"
 tags: 
 - SUSTecher
 - Life
@@ -118,14 +118,20 @@ summery: "金野鸡奖是我来南科大的一个理由."
 
 如果要成长，就要学会支配人格的阴暗面，要主动支配这股力量！
 
->[!quote]Per Aspera ad Astra!​
+>Per Aspera ad Astra!​
+
 >颠簸路途通繁星！
 
 
 初稿于2024年5月24日
+
 修改于2024年6月4日
+
 微信公众平台发布于2024年06月22日
+
 微调排版后发布于2024年8月14日
+
+---
 
 ### English Corner (ChatGPT)
 
