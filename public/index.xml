@@ -29,5 +29,12 @@
       <guid>http://localhost:1313/post/hello/</guid>
       <description>Hello Hugo Debug .\hugo server --theme=PaperMod --buildDrafts Biuld .\hugo --theme=PaperMod --baseURL=&amp;#34;http://liubinfighter.github.io/&amp;#34; </description>
     </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/post/golden_pheasant/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/golden_pheasant/</guid>
+      <description>本文首发于微信公众号平台订阅号SUSTecher，原文链接：繁星：金野鸡奖是我来南科大的一个理由 (qq.com)。相关问题联系：Liuhj1</description>
+    </item>
   </channel>
 </rss>
