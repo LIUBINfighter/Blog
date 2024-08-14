@@ -4,6 +4,7 @@ title: "Website Recommendation for New SUSTecher"
 tags: 
 - tools 
 - workflow
+- SUSTecher
 summary: 为南科大24级新生学习生活推荐的实用网站。
 ---
 
