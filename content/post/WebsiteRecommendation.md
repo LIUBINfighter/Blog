@@ -1,6 +1,7 @@
 ---
 date: 2024-08-14
-title: "Website Recommendation"
+title: "Website Recommendation for New SUSTecher"
+tags: #tools #workflow
 ---
 
 - 本文已制作成只读pdf发布在南科大信息交流6群。
@@ -201,6 +202,7 @@ BB系统，教务系统不包括的日常事务大多都在这里
 没用过。不过这个学期准备约位大佬hhh
 
 - 海乐生活
+
 扫码使用洗衣机/烘干机，比app稳定一些
 
 - 深圳通
