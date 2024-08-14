@@ -1,14 +1,16 @@
 ---
 date: 2024-08-15
-title: "How can freshmen carve out their own path at SUSTech?"
+title: "How can freshmen carve out their own path at SUSTech? - Preface "
 tags: 
 - tools 
 - SUSTecher
-summary: 敢闯敢试，敢为人先。
+summary: He who dares, wins. 敢闯敢试，敢为人先。
+draft: true
 ---
 
+### Preface
 
-
+施工中
 
 ### English Corner (ChatGPT)
 
