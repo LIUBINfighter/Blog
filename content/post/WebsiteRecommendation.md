@@ -1,7 +1,10 @@
 ---
 date: 2024-08-14
 title: "Website Recommendation for New SUSTecher"
-tags: #tools #workflow
+tags: 
+- tools 
+- workflow
+summary: 为南科大24级新生学习生活推荐的实用网站。
 ---
 
 - 本文已制作成只读pdf发布在南科大信息交流6群。
