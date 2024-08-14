@@ -120,6 +120,10 @@ params:
     limit: 10
     keys: ["title", "permalink", "summary", "content"]
 
+# busuanzi
+  busuanzi:
+    enable: true
+
 # menu on right top
 menu:
   main:
