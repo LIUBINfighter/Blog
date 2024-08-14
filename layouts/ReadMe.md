@@ -2,3 +2,5 @@
 
 
 由于使用了git submodule自动更新PaperMod，你在themes\PaperMod里的修改仅供本地预览（不会上传到github并重新编译），修改后的文件将要额外放到这个文件夹里。
+
+我弄明白了，在根目录下把theme/papermod里修改了的html文件按原结构排好，action在编译的时候就会按照修改后的文件+指定PaperMod repo生成静态网站
