@@ -1,0 +1,4 @@
+这个文件夹是为了自定义界面提供的。
+
+
+由于使用了git submodule自动更新PaperMod，你在themes\PaperMod里的修改仅供本地预览（不会上传到github并重新编译），修改后的文件将要额外放到这个文件夹里。
