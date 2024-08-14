@@ -2,7 +2,7 @@ baseURL: https://liubinfighter.github.io/
 languageCode: en-us
 title: "Huajie's Blog"
 theme: PaperMod
- 
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -43,6 +43,7 @@ params:
   author: "Huajie Liu" # author: ["Me", "You"] # multiple authors
   DateFormat: "January 2, 2006"
   defaultTheme: auto
+  avatarURL: "./assets/images/IMG_0027.jpg"
 
   # functional options
   disableThemeToggle: false
@@ -92,8 +93,8 @@ params:
       url: "https://github.com/LIUBINfighter"
     - name: linkedin
       url: "https://www.linkedin.com/in/%E5%8D%8E%E6%9D%B0-%E5%88%98-6a8b1131b/"
-    - name: telegram
-      url: ""
+    # - name: telegram
+    #   url: ""
     - name: email
       url: "mailto:Liuhj10860@gmail.com"
     - name: rss
