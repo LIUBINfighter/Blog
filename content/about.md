@@ -4,6 +4,8 @@ date: 2024-08-13T23:23:49+08:00
 
 ---
 
+![](./assets/img/ohyeah2.png)
+
 ## Who am I
 
 Hi, I'm Huajie Liu (刘华杰), a full-time undergraduate at [Southern University of Science and Technology](https://www.sustech.edu.cn/), majoring in Big Data Management and Applications.

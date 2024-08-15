@@ -7,7 +7,11 @@ tags:
 summary: "金野鸡奖是我来南科大的一个理由."
 ---
 
-本文首发于微信公众号平台订阅号SUSTecher，原文链接：[繁星：金野鸡奖是我来南科大的一个理由 (qq.com)](https://mp.weixin.qq.com/s/MzKHQ2Q5rM58JHNsLchOXw)。相关问题联系：Liuhj10860@gmail.com
+本文首发于微信公众号平台订阅号SUSTecher
+
+原文链接：[繁星：金野鸡奖是我来南科大的一个理由 (qq.com)](https://mp.weixin.qq.com/s/MzKHQ2Q5rM58JHNsLchOXw)。
+
+相关问题联系：Liuhj10860@gmail.com
 
 ---
 
