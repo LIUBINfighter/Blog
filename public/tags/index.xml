@@ -6,19 +6,19 @@
     <description>Recent content in Tags on Huajie&#39;s Blog</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SUSTecher</title>
       <link>http://localhost:1313/tags/sustecher/</link>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sustecher/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
       <link>http://localhost:1313/tags/tools/</link>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/tools/</guid>
       <description></description>
     </item>
@@ -34,6 +34,20 @@
       <link>http://localhost:1313/tags/life/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linear_algebra</title>
+      <link>http://localhost:1313/tags/linear_algebra/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/linear_algebra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>http://localhost:1313/tags/notes/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/notes/</guid>
       <description></description>
     </item>
   </channel>

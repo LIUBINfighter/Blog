@@ -1,6 +1,8 @@
 ---
 date: "2024-05-24"
 title: "Golden Pheasant Award"
+categories: 
+- articles
 tags: 
 - SUSTecher
 - Life

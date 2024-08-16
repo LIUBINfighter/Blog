@@ -6,14 +6,14 @@
     <description>Recent content on Huajie&#39;s Blog</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How can freshmen carve out their own path at SUSTech? - Preface </title>
-      <link>http://localhost:1313/post/sustech_explore/sustech_explore/</link>
-      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/sustech_explore/sustech_explore/</guid>
-      <description>He who dares, wins. 敢闯敢试，敢为人先。</description>
+      <link>http://localhost:1313/post/explore_preface/explore_preface/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/explore_preface/explore_preface/</guid>
+      <description>敢闯敢试，敢为人先。</description>
     </item>
     <item>
       <title>Website Recommendation for New SUSTecher</title>
@@ -42,6 +42,13 @@
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/golden_pheasant/</guid>
       <description>金野鸡奖是我来南科大的一个理由.</description>
+    </item>
+    <item>
+      <title>Row Lost in Vandermonde</title>
+      <link>http://localhost:1313/post/row_lost_in_vandermonde/</link>
+      <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/row_lost_in_vandermonde/</guid>
+      <description>一道线性代数习题，Vandermonde Determinant</description>
     </item>
   </channel>
 </rss>

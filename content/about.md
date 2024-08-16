@@ -12,7 +12,7 @@ Hi, I'm Huajie Liu (刘华杰), a full-time undergraduate at [Southern Universit
 
 I have a keen interest in **New Classical Macroeconomics**, **Complexity Science** and crypto trading, but I'm still exploring where I truly belong in my first year in SUSTech.
 
-I have informally worked as a C/C++ developer for ARTINX, a lab focused on the [ROBOMASTER](https://www.robomaster.com/zh-CN) competition, from Oct 2023 to Apr 2024. I am very grateful for the opportunity and support they provided.
+I have informally worked as a C/C++ developer for [ARTINX](https://mp.weixin.qq.com/s/YfFsbup3Vw61xo0SRzQpZw), a lab focused on the [ROBOMASTER](https://www.robomaster.com/zh-CN) competition, from Oct 2023 to Apr 2024. I am very grateful for the opportunity and support they provided.
 
 ### Nicknames
 
@@ -55,7 +55,8 @@ By focusing on hedging and order book analysis, new opportunities can be identif
 ## Notes
 
 - [Open_Notes_SUSTech](https://github.com/LIUBINfighter/Open_Notes_SUSTech)
-    Testing...
+
+FIN204 Macroeconomics HW(Q&A); MA106 Calculus 2 HW(Q)
 
 ## Semester Projects
 
@@ -64,6 +65,9 @@ I will fill it one day! Trust me.
 ## Presentation
 
 - FIN204 Macroeconomics Final Presentation
-    Testing...
-- What is the best way to explore SUSTech that belongs to you? (For new SUSTecher in 2024)
-    Testing...
+
+Testing...
+
+- What is the best way to explore SUSTech? (For new SUSTechers in 2024)
+
+Testing...
