@@ -6,8 +6,8 @@ math: true
 draft: false
 categories: 
 - math
-tags:
 - notes
+tags:
 - linear_algebra
 ---
 
