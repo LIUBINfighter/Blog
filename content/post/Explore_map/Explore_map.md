@@ -1,6 +1,6 @@
 ---
 date: 2024-08-17
-title: "How can freshmen carve out their own path at SUSTech? - 1 Your Map "
+title: "SUSTecher|1 Your Map "
 categories: 
 - articles
 tags: 
