@@ -4,7 +4,7 @@ date: 2024-08-13T23:23:49+08:00
 
 ---
 
-![](./assets/img/ohyeah2.png)
+![ohyeah2](./assets/img/ohyeah2.png)
 
 ## Who am I
 
