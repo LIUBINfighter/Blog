@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Huajie&#39;s Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://liubinfighter.github.io/categories/</link>
     <description>Recent content in Categories on Huajie&#39;s Blog</description>
     <generator>Hugo -- 0.132.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://liubinfighter.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Articles</title>
-      <link>http://localhost:1313/categories/articles/</link>
-      <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/articles/</guid>
+      <link>http://liubinfighter.github.io/categories/articles/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://liubinfighter.github.io/categories/articles/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/categories/math/</link>
+      <link>http://liubinfighter.github.io/categories/math/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/math/</guid>
+      <guid>http://liubinfighter.github.io/categories/math/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>http://localhost:1313/categories/notes/</link>
+      <link>http://liubinfighter.github.io/categories/notes/</link>
       <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/notes/</guid>
+      <guid>http://liubinfighter.github.io/categories/notes/</guid>
       <description></description>
     </item>
   </channel>
