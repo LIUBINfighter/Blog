@@ -7,6 +7,7 @@ tags:
 - SUSTecher
 - Course
 summary: "南科大是常为新的，许以开拓者以丰富的奖励。"
+draft: false
 ---
 
 ## 前言
