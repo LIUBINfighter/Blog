@@ -1,4 +1,5 @@
-baseURL: https://liubinfighter.github.io/
+# baseURL: https://liubinfighter.github.io/
+baseURL: https://HuajieBrigde.blog/
 languageCode: en-us
 title: "Huajie's Blog"
 theme: PaperMod
