@@ -6,8 +6,8 @@ theme: PaperMod
 
 enableRobotsTXT: true
 buildDrafts: false
-buildFuture: false
-buildExpired: false
+buildFuture: true
+buildExpired: true
 hasCJKLanguage: true
 
 # defaultContentLanguage: en
