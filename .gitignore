@@ -1,7 +1,9 @@
-# public
+public
 resources
 .hugo_build.lock
 .DS_Store
 */.DS_Store
 */*.DS_Store
 hugo.exe
+public/ohyeah2.png
+public/about/index.html
