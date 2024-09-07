@@ -1,5 +1,5 @@
 ---
-date: "2024-09-08"
+date: 2024-09-08
 title: "CourseReview|一些我选的好课推荐语"
 categories: 
 - articles
