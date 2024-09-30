@@ -5,7 +5,7 @@ categories:
   - articles
 tags:
   - SUSTecher
-  - "#决策"
+  - 决策
 summary: 你的损失如何计算？用这两个概念理清思路，避免情绪化决策。
 draft: true
 ---
