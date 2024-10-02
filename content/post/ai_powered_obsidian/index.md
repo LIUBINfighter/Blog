@@ -22,12 +22,14 @@ Ob插件：我个人体验过不少Ob-AI插件，本次向大家推荐我使用�
 
 1.Local GPT
 
-![LocalGPT](localgpt.png)
+![LocalGPT|400](localgpt.png)
 
 2.smart second brain
 
-![alt text](image.png)
+![alt text|400](image.png)
 
 以下是初步演示
 
-<video controls src="Obsidian AI plugins workflow.mp4" title="Title"></video>
+<!-- <video controls src="Obsidian AI plugins workflow.mp4" title="Title"></video> -->
+
+<video controls width="640" height="480" src="Obsidian AI plugins workflow.mp4" title="Title"></video>
