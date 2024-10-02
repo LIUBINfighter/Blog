@@ -1,13 +1,13 @@
 ---
-date: 2024-09-24
-title: "AI|Obsidian|打造丝滑Ob+本地AI写作工作流"
+date: 2024-10-02
+title: "AI|Obsidian|演示用|打造丝滑Ob+本地AI写作工作流"
 categories: 
 - articles
 tags: 
 - workflow
 - AI
 summary: Ollama+llama3.1+LocalGPT+Smart2Brain
-draft: true
+draft: false
 ---
 
 ## 前言：一坑未平一坑又起
@@ -27,3 +27,7 @@ Ob插件：我个人体验过不少Ob-AI插件，本次向大家推荐我使用�
 2.smart second brain
 
 ![alt text](image.png)
+
+以下是初步演示
+
+<video controls src="Obsidian AI plugins workflow.mp4" title="Title"></video>

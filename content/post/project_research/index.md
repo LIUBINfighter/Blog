@@ -5,6 +5,7 @@ categories:
   - articles
 tags:
   - SUSTecher
+  - PoliAI
 summary: 你唯一的资产，就是你的身体；珍惜你的现金流——时间，只有它，稀缺。
 draft: false
 ---
