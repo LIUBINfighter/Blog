@@ -2,7 +2,7 @@
 date: 2024-10-02
 title: "AI|Obsidian|演示用|打造丝滑Ob+本地AI写作工作流"
 categories: 
-- articles
+- worksheet
 tags: 
 - workflow
 - AI
@@ -13,6 +13,8 @@ draft: false
 ## 前言：一坑未平一坑又起
 
 决策系列在更了在更了（），学校的课表变动非常大，这几天疯狂赶作业中。
+
+## 初步演示
 
 这篇文章介绍ollama部署本地AI+obsidian插件接入的方法。可能一篇文章更不完，需要把一些技术问题单独拎出来写。在进行微调和知识库索引前，我们先分为本地AI部署和OB插件两端进行介绍。
 

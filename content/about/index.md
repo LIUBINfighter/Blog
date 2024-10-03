@@ -4,7 +4,7 @@ date: 2024-08-13T23:23:49+08:00
 
 ---
 
-![](ohyeah2.png)
+![alt text](icon.jpg)
 
 ## Who am I
 
