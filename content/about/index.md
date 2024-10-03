@@ -4,7 +4,7 @@ date: 2024-08-13T23:23:49+08:00
 
 ---
 
-![alt text](icon.jpg)
+<img src="icon.jpg" alt="alt text" style="width:200px;height:auto;">
 
 ## Who am I
 
