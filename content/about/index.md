@@ -38,7 +38,7 @@ Feel free to reach out to me.
 
 Related links:[Jay_Survival_Manual](https://liubinfighter.github.io/Jay_Survival_Manual/#/)
 
-You can find more information about my articles and projects. 
+You can find more information about my articles and projects.
 
 This format of e-books is better suited for serializing the writing of various articles.
 
@@ -48,7 +48,9 @@ TBD.
 
 (Updated on Oct 12,2024) I find it's not easy to write and upload articles even once a week...
 
-And the blog is less well-organized like an e-book. Therefore, for consecutive serialized articles or thematic articles, I will place and organize them in the [SurvivingManual](https://liubinfighter.github.io/Jay_Survival_Manual/#/).
+And the blog is less well-organized than an e-book. Therefore, for consecutive serialized articles or thematic articles, I will organize them in the [SurvivingManual](https://liubinfighter.github.io/Jay_Survival_Manual/#/).
+
+Still, I can write some blogs whose content is relatively independent to one another here.
 
 ### Courses
 
