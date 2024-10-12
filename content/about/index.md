@@ -22,7 +22,7 @@ In formal situation, I go by the name Huajie Liu or LIU Huajie.
 
 After starting my project about [survival_manual](https://liubinfighter.github.io/Jay_Survival_Manual/#/), I also use Jay Bridge as my English name.
 
-In other cases, you can find me by Bin Liu, LIUBIN, 星(Star) or LIUBINfighter. But Jay Bridge is now the most frequent used name anyway!
+In other cases, you can find me by Bin Liu, LIUBIN, 星(Star) or LIUBINfighter. But Jay Bridge is now my most frequently used name anyway!
 
 ### My friends
 
@@ -40,7 +40,7 @@ Related links:[Jay_Survival_Manual](https://liubinfighter.github.io/Jay_Survival
 
 You can find more information about my articles and projects.
 
-This format of e-books is better suited for serializing the writing of various articles.
+<!-- This structure of e-book is better suited for serializing the writing of various articles. -->
 
 ### Articles
 
