@@ -4,10 +4,7 @@ date: 2024-08-13T23:23:49+08:00
 
 ---
 
-<!-- <img src="icon.jpg" alt="alt text" style="width:200px;height:auto;"> -->
-
-<img src="00074-1964795145.png" alt="FUMO" style="width:200px;height:auto;">
-
+<img src="icon.jpg" alt="alt text" style="width:200px;height:auto;">
 
 ## Who am I
 
@@ -32,6 +29,8 @@ In other cases, you can find me by Bin Liu, LIUBIN, 星(Star) or LIUBINfighter. 
 I am waiting for their personal websites...
 
 and yours!
+
+<img src="00074-1964795145.png" alt="FUMO" style="width:200px;height:auto;">
 
 ## About the Blog
 
