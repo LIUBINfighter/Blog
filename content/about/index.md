@@ -4,7 +4,10 @@ date: 2024-08-13T23:23:49+08:00
 
 ---
 
-<img src="icon.jpg" alt="alt text" style="width:200px;height:auto;">
+<!-- <img src="icon.jpg" alt="alt text" style="width:200px;height:auto;"> -->
+
+<img src="00074-1964795145.png" alt="FUMO" style="width:200px;height:auto;">
+
 
 ## Who am I
 
