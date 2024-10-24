@@ -6,7 +6,7 @@ categories:
 tags: 
 - finance
 summary: 1022 基金大厦参访笔记 
-draft: true
+draft: false
 ---
 
 **提纲概括：市场与宏观经济分析**  
