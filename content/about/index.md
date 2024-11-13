@@ -68,7 +68,7 @@ Still, I can write some blogs whose content is relatively independent to one ano
 
 Mastering the language of the world allows us to engage with outstanding people and events all over the globe.
 
-For most of my articles, I will try to biuld a constant English corner.
+For most of my articles, I will try to build a consistent English section.
 
 ### New Classical Macroeconomics
 
