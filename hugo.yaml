@@ -36,7 +36,7 @@ pagination:
   path: page
 
 minify:
-  disableXML: true
+  disableXML: false
   minifyOutput: true
 
 params:
