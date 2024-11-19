@@ -100,8 +100,8 @@ params:
     #   url: ""
     - name: email
       url: "mailto:Liuhj10860@gmail.com"
-    # - name: rss
-    #   url: "/index.xml"
+    - name: rss
+      url: "/index.xml"
 
   cover:
     hidden: true # hide everywhere but not in structured data
