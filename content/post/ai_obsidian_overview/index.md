@@ -14,6 +14,8 @@ draft: false
 
 本仓库是为了向Obsidian新手介绍Obsidian中的AI工作流而打造的。
 
+> 本博客是为了推广仓库以及写初步教程。阅读最新的进展可以去github。想要直接看效果可以看博客之前的视频+图片示例：[AI|Obsidian|演示用|打造丝滑Ob+本地AI写作工作流](https://liubinfighter.github.io/Blog/post/ai_powered_obsidian/)
+
 项目地址：<https://github.com/LIUBINfighter/Sample_AI_Workspace>
 
 Obsidian的学习曲线本就比较陡峭，如果再加上自己部署LLM服务则要同时学习LLM部署和Obsidian各AI插件的对接。我对本仓库的设计以及对应文档的写作就是Obsidian新手加快将AI融入Obsidian工作流的进程，按图索骥修改配置后根据效果自行取舍和进行个性化设置。
@@ -138,6 +140,14 @@ Kimi以强大的长文本能力，文件上传和联网搜索能力（以及cont
 
 ### 配置Ollama
 
+#### Ubuntu
+
+我们用snap下载ollama，其他操作和windows没有太大区别。
+
+```bash
+sudo snap install ollama
+```
+
 #### Windows
 
 ![DownloadOllama|600](DownloadOllama.png)
@@ -162,13 +172,17 @@ ollama list
 
 我C盘够大，模型随便下。但是如果C盘本来空间不多，可能需要修改ollama配置使得模型文件保存在其他位置。
 
-#### Ubuntu
+预设快捷键为`ctrl+alt+g`呼出选项卡。
 
-我们用snap下载ollama，其他操作和windows没有太大区别。
+![LocalGPT-README|](LocalGPT-README.png)
 
-```bash
-sudo snap install ollama
-```
+可以手动选中输入内容，不选中则为整个文件的文字为输入。
+
+在插件设置面板中查看LocalGPTAction：（提示词模板）
+
+![](查看LocalGPTAction.png)
+
+现在就可以在写作中开开心心的使用LocalGPT插件了！其他插件的教程会在仓库里陆续更新，有时间我会同步到Bloig.
 
 更多个性化配置参考[Ollama](https://github.com/LIUBINfighter/Sample_AI_Workspace/blob/main/docs/BaseLLM/Ollama.md)以及Ollama官网 <https://ollama.com/>
 
