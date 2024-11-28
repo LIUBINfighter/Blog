@@ -10,6 +10,8 @@ tags:
 summary: "使用cursor Tab（划掉）开发ObsidianPlugin: IrisSystem的笔记"
 ---
 
+![alt text](image.png)
+
 ## 项目架构
 
 ### 1. 整体架构
