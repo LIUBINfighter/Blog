@@ -10,7 +10,7 @@ tags:
 summary: "使用cursor Tab（划掉）开发ObsidianPlugin: IrisSystem的笔记"
 ---
 
-![alt text](image.png)
+![overview](overview.png)
 
 ## 项目架构
 
@@ -25,6 +25,70 @@ src/
 ├── services/            # 服务层：核心业务逻辑
 ├── utils/              # 工具层：通用功能
 └── interface.ts        # 接口定义层
+```
+
+详细展开的文件树如下：
+
+```typescript
+project/
+├── src/                      # 源代码目录
+│   ├── main.ts              # 插件主入口
+│   │   - 插件初始化
+│   │   - 服务注册
+│   │   - 命令注册
+│   │   - 视图注册
+│   │
+│   ├── interface.ts         # 接口定义
+│   │   - Document          # 文档接口
+│   │   - VectorStore       # 向量存储接口
+│   │   - OllamaConfig      # Ollama配置接口
+│   │   - IrisSettings      # 插件设置接口
+│   │   - IrisAction        # 动作接口
+│   │   - IrisWorkflow      # 工作流接口
+│   │
+│   ├── defaultSettings.ts   # 默认配置
+│   │   - DEFAULT_ACTIONS   # 预设动作列表
+│   │   - DEFAULT_WORKFLOWS # 预设工作流
+│   │   - DEFAULT_SETTINGS  # 默认插件设置
+│   │
+│   ├── settings.ts         # 设置页面
+│   │   - IrisSettingTab    # 设置标签页组件
+│   │   - 动作管理界面
+│   │   - 参数配置界面
+│   │
+│   ├── services/           # 核心服务目录
+│   │   ├── langchain.ts    # LangChain服务
+│   │   │   - 查询处理
+│   │   │   - RAG增强
+│   │   │   - 动作执行
+│   │   │
+│   │   ├── ollama.ts       # Ollama服务
+│   │   │   - API调用
+│   │   │   - 向量嵌入
+│   │   │
+│   │   ├── indexer.ts      # 索引服务
+│   │   │   - 文档索引
+│   │   │   - 向量检索
+│   │   │
+│   │   └── local-vector-store.ts  # 本地向量存储
+│   │       - 向量存储
+│   │       - 相似度搜索
+│   │
+│   ├── views/              # 视图组件目录
+│   │   └── chat-view.ts    # 聊天界面
+│   │       - 消息渲染
+│   │       - 动作执行
+│   │       - 交互处理
+│   │
+│   └── utils/              # 工具函数目录
+│       └── helper.ts       # 辅助函数
+│
+├── styles/                 # 样式目录
+│   └── styles.css         # 主样式文件
+│
+├── manifest.json          # 插件清单
+└── package.json          # 项目配置
+
 ```
 
 ### 2. 核心模块分析
@@ -102,6 +166,10 @@ export class ObsidianIndexer {
 
 **聊天视图 (chat-view.ts)**
 
+![promptPreset.png](promptPreset.png)
+
+![mermaid-css](mermaid-css.png)
+
 ```typescript
 export class IrisChatView extends ItemView {
     // 消息渲染
@@ -114,6 +182,10 @@ export class IrisChatView extends ItemView {
     private switchMode(mode: ChatMode)
 }
 ```
+
+**自定义欢迎词**
+
+![ChatViewSetting](ChatViewSetting.png)
 
 #### 2.4 接口定义 (interface.ts)
 
@@ -130,6 +202,8 @@ export interface {
 ```
 
 ### 3. 数据流转
+
+![RagModal](RagModal.png)
 
 1. **RAG查询流程**:
 
@@ -156,6 +230,8 @@ graph LR
 
 1. **动作系统**
 
+![IrisAction](IrisAction.png)
+
 ```typescript
 interface IrisAction {
     id: string;
@@ -172,6 +248,8 @@ interface IrisAction {
 
 2. **工作流系统**
 
+
+
 ```typescript
 interface IrisWorkflow {
     id: string;
@@ -182,11 +260,13 @@ interface IrisWorkflow {
 }
 ```
 
-- 支持多种链类型
+- 支持多种链类型（后端langchain实现）
 - RAG增强选项
 - 记忆管理
 
 3. **状态管理**
+
+![vaultIndexing](vaultIndexing.png)
 
 ```typescript
 // 状态栏显示
