@@ -14,7 +14,10 @@ summary: "使用cursor Tab（划掉）开发ObsidianPlugin: IrisSystem的笔记"
 
 ## 视频演示
 
-<video controls src="以Obsidian为平台的AI问答界面UI以及交互逻辑示意.mp4" title="Title"></video>
+<video controls style="width: 100%; height: auto;" src="以Obsidian为平台的AI问答界面UI以及交互逻辑示意.mp4" title="Iris Demo">
+  <!-- 视频自适应容器大小|视频无法播放时显示的内容 -->
+  Your browser does not support the video tag.
+</video>
 
 ## 项目架构
 

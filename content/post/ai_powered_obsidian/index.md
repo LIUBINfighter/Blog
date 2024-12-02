@@ -34,4 +34,4 @@ Ob插件：我个人体验过不少Ob-AI插件，本次向大家推荐我使用�
 
 <!-- <video controls src="Obsidian AI plugins workflow.mp4" title="Title"></video> -->
 
-<video controls width="640" height="480" src="Obsidian AI plugins workflow.mp4" title="Title"></video>
+<video style="width: 100%; height: auto;" src="Obsidian AI plugins workflow.mp4" title="Title"></video>
