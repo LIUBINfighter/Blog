@@ -12,6 +12,10 @@ summary: "使用cursor Tab（划掉）开发ObsidianPlugin: IrisSystem的笔记"
 
 ![overview](overview.png)
 
+## 视频演示
+
+<video controls src="以Obsidian为平台的AI问答界面UI以及交互逻辑示意.mp4" title="Title"></video>
+
 ## 项目架构
 
 ### 1. 整体架构
