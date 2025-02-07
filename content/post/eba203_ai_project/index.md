@@ -253,13 +253,13 @@ User Input -> IrisChatView
                 -> Render to interface
 ```
 
-![Pasted image 20241209172910.png](Pasted image 20241209172910.png)
+<img src="Pasted image 20241209172910.png" alt="alt text" width="100%">
 
-![IrisAction.png](IrisAction.png)
+<img src="IrisAction.png" alt="alt text" width="100%">
 
-![Pasted image 20241209173040.png](Pasted image 20241209173040.png)
+<img src="Pasted image 20241209173040.png" alt="alt text" width="100%">
 
-![IrisChatRagView.png](IrisChatRagView.png)
+<img src="IrisChatRagView.png" alt="alt text" width="100%">
 
 2. **Settings save process**:
 
@@ -270,7 +270,7 @@ Settings Change -> IrisSettingTab
             -> Update interface
 ```
 
-![Pasted image 20241209173643.png](Pasted image 20241209173643.png)
+<img src="Pasted image 20241209173643.png" alt="alt text" width="100%">
 
 3. **Indexing process**:
 
@@ -301,11 +301,11 @@ We now have 6 stars, and the two introductory articles have over 150 reads.
 
 We are planing to introduce it on youtube, bilibili, reddit, obsidian forum and pkmer.
 
-![Pasted image 20241209164029.png](Pasted image 20241209164029.png)
+<img src="Pasted image 20241209164029.png" alt="alt text" width="100%">
 
-![Pasted image 20241209164721.png](Pasted image 20241209164721.png)
+<img src="Pasted image 20241209164721.png" alt="alt text" width="100%">
 
-![Pasted image 20241209164846.png](Pasted image 20241209164846.png)
+<img src="Pasted image 20241209164846.png" alt="alt text" width="100%">
 
 ## Related links and reference
 

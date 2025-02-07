@@ -1,6 +1,6 @@
 ---
 date: 2024-12-29
-title: SUSTech_Course_Materials
+title: Resources|SUSTech_Course_Materials
 author: Jay Bridge
 categories:
   - worksheet
