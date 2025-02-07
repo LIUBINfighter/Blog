@@ -11,7 +11,7 @@ summary: WebViewer提供了比surfing更流畅的网页转markdown体验，聊�
 draft: false
 ---
 
-> `deepseek-r1`  `obsidian` `markdown` `xml`
+> `deepseek-r1`  `obsidian` `markdown` `xml` `homepage` `workspace`
 
 ## 前言 在浏览器的道路上越走越远
 
@@ -23,7 +23,7 @@ draft: false
 - 一键将网页内容转换为Markdown格式，并保存到笔记中。
 - 轻松管理和编辑从网页导入的内容。
 
-在我看来，这个插件比surfing在转换页面上更稳定，特别是添加了markdown转换预览
+在我看来，这个插件比surfing在转换页面上更稳定，特别是添加了markdown转换预览，直观展现转换后的笔记样式，比web clipper抽奖安心多了。
 
 ## 基础操作
 
@@ -46,9 +46,19 @@ draft: false
 
 ## 进阶使用
 
-### 搭配homepage设置开始页面调用deepseek
+### 搭配homepage设置workspace页面调用deepseek
 
-由于还没有收藏夹功能，每次都要自动呼出deepseek比较麻烦。在进行一些工作的事hi后
+由于还没有收藏夹功能，每次都要自动呼出deepseek比较麻烦。特别是在一些特定的项目下需要频繁调用chat类（我们还是用deepseek为例子，但是所有的网页端LLM Chat原理都一样，包括ChatGPT，Kimi，Gemini等）。
+
+我们调整好使用deepseek的页面布局后设置Workspace，就能通过调用workspace呼出合适的页面布局（包括webviewer下的网页）。
+
+<img src="image-1.png" alt="alt text" width="100%">
+
+<img src="image-2.png" alt="alt text" width="100%">
+
+这里homepage其实只是方便了workspace的调用（侧边栏Robbin Icon呼出），核心在于workspace兼容。在这个页面可以把刚刚布置好的工作区设置为homepage，作为最常用的工作布局。
+
+<img src="image-3.png" alt="alt text" width="100%">
 
 ### 使用标记语言适配双链笔记
 
