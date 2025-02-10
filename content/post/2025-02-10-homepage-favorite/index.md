@@ -1,6 +1,6 @@
 ---
 date: 2025-02-10
-title: "Workspace|Favorite|常用网站快速跳转"
+title: "Workspace|常用网站快速跳转"
 categories: 
 - worksheet
 tags: 
@@ -11,8 +11,6 @@ tags:
 summary: 搭配WebViewer的新玩法，利用在线网页打造跳转常用网页工作流。
 draft: false
 ---
-
-### AI Tools
 
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 20px; padding: 20px;">
     <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; text-align: center;">
@@ -86,9 +84,6 @@ draft: false
         </a>
     </div>
 </div>
-
-
-
 
 ### Docs & Resources & Stack
 
