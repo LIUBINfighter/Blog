@@ -83,6 +83,12 @@ draft: false
             <p>Code Time!</p>
         </a>
     </div>
+    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; text-align: center;">
+        <a href="https://www.zhihu.com/" target="_blank" style="text-decoration: none; color: inherit;">
+            <h3>知乎</h3>
+            <p>Fishing Time!</p>
+        </a>
+    </div>
 </div>
 
 ### Docs & Resources & Stack
