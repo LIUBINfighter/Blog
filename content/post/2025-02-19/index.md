@@ -15,7 +15,7 @@ draft: false
 
 |          | 网址                                                                                            | 介绍                   | 语言                                        | 定价   |
 | -------- | --------------------------------------------------------------------------------------------- | -------------------- | ----------------------------------------- | ---- |
-| mogan    | [墨干 \| 探索科学与技术 (mogan.app)](https://mogan.app/zh/)                                            | 基于GNU TeXmacs<br>底层+中文优化 | TeXmacs/tmu<br>支持LaTeX\|html等<br>导入导出     | Free |
+| mogan    | [墨干 \| 探索科学与技术 (mogan.app)](https://mogan.app/zh/)                                            | 基于GNU TeXmacs<br>底层+中文优化<br>所见即所得<br>底层文本，编辑近似docx<br>对数学支持更好 | TeXmacs/tmu<br>支持LaTeX\|html等<br>导入导出     | Free |
 | liii     | [三鲤AI理工套件 \| explore science and technology (liiistem.cn)](https://liiistem.cn/)              | 拥有大模型集成<br>和更快技术支持的mogan   | 同上                                        | 你猜   |
 | obsidian | [Obsidian - Sharpen your thinking](https://obsidian.md/)                                      | 用来做笔记好<br>插件丰富前端很爽   | markdown/LaTeX<br>通过pandoc导入导出<br>docx\|html等 | Free |
 | vscode   | [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)                | 宇宙编辑器<br>靠插件实现许多功能   | markdown/LaTeX                            | Free |
